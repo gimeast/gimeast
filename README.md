@@ -54,6 +54,6 @@
   <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=gimeast)](https://gimeast.tistory.com/)
-	<img width="25%" align="center" src="https://github.com/gimeast/gimeast/assets/122797364/42d14eff-e557-483d-b6b1-87a58e6bb164" />
+	<img width="25%" align="center" src="https://github.com/gimeast/springsecurity_in_action/assets/122797364/14c9c1a8-9997-4675-9323-280ae3e54abe" />
   <br />
 </div>
