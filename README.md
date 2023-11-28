@@ -23,31 +23,25 @@
 <div align="center">
   <h1 align="center">:fire: Dev Repository List</h1>
 
-  <h3 align="center" style="color:red;">📚 Study 📚</h3>
-
-  | Project Name |
+  | HISTORY |
   | :---:        |
-  | [<img src="https://img.shields.io/badge/springsecurity_in_action-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/springsecurity_in_action) |
-  | [<img src="https://img.shields.io/badge/2023_springboot-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/2023_springboot) |
-  | [<img src="https://img.shields.io/badge/2023_springFW-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/2023_springFW) |
-  | [<img src="https://img.shields.io/badge/2023_react-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/2023_react) |
-  | [<img src="https://img.shields.io/badge/my_function-6DB33F?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/my_function) |
-  
+  | [<img src="https://img.shields.io/badge/WIKI-black?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/wiki) |
 
-  <h3 align="center" style="color:red;">📚 M-project 📚</h3>
-
-  | Project Name |
-  | :---:        |
-  | [<img src="https://img.shields.io/badge/2023_project-0085CA?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/2023_project) |
   <br />
+<!--
+  | Project Name |
+  | :---:        |
+  | [<img src="https://img.shields.io/badge/2023_project-black?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/2023_project) |
+  <br />
+-->  
 
   <h1 align="center">:star2: Let's Get Connected</h1>
 
   <a href="https://gimeast.tistory.com/">
-    <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-7289DA?style=for-the-badge&logo=Dev Blog&logoColor=white">
+    <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-black?style=for-the-badge&logo=Dev Blog&logoColor=white">
   </a>
   <a href="https://github.com/gimeast?tab=repositories" target="_blank">
-    <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository%20-%230077B5.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
+    <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository-black.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
   </a>  
   
   <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
