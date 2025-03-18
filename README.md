@@ -43,8 +43,9 @@
   <a href="https://github.com/gimeast?tab=repositories" target="_blank">
     <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository-black.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
   </a>  
-  
+<!--
   <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
   <img width="25%" align="center" src="https://github.com/gimeast/springsecurity_in_action/assets/122797364/14c9c1a8-9997-4675-9323-280ae3e54abe" />
   <br />
+-->
 </div>
