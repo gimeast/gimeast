@@ -29,6 +29,7 @@
 -->
 	
 <h1 align="center">:fire: Study</h1>
+
 * [ ] [projects](https://github.com/gimeast/projects)
 * [ ] [data_structure](https://github.com/gimeast/data_structure)
 * [ ] [2025_vue_study](https://github.com/gimeast/2025_vue_study)
