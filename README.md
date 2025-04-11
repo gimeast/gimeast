@@ -50,7 +50,7 @@
   <br />
 -->  
 
-  <h1 align="center">:star2: Let's Get Connected</h1>
+  <h1 align="center">:star2:</h1>
 
   <a href="https://gimeast.tistory.com/">Dev Blog </a> |
   <a href="https://github.com/gimeast?tab=repositories" target="_blank">Dev Repository</a>  
