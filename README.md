@@ -52,12 +52,8 @@
 
   <h1 align="center">:star2: Let's Get Connected</h1>
 
-  <a href="https://gimeast.tistory.com/">
-    <img alt=" Dev Blog" src="https://img.shields.io/badge/Dev Blog-black?style=for-the-badge&logo=Dev Blog&logoColor=white">
-  </a>
-  <a href="https://github.com/gimeast?tab=repositories" target="_blank">
-    <img alt="Dev Repository" src="https://img.shields.io/badge/Dev Repository-black.svg?&style=for-the-badge&logo=Dev Repository&logoColor=white" />
-  </a>  
+  <a href="https://gimeast.tistory.com/">Dev Blog </a> |
+  <a href="https://github.com/gimeast?tab=repositories" target="_blank">Dev Repository</a>  
 <!--
   <h5 align="center">:heartbeat: 최신 업데이트 포스팅 바로가기 :heartbeat:</h5>
   <img width="25%" align="center" src="https://github.com/gimeast/springsecurity_in_action/assets/122797364/14c9c1a8-9997-4675-9323-280ae3e54abe" />
