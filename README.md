@@ -27,6 +27,7 @@
   | [<img src="https://img.shields.io/badge/WIKI-black?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/wiki) |
 -->
 	
+<!--
 <h1 align="center">:fire: Study</h1>
 
 * [ ] [projects](https://github.com/gimeast/projects)
@@ -45,7 +46,6 @@
   | [<img src="https://img.shields.io/badge/WIKI-black?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/wiki) |
   
   <br />
-<!--
   | Project Name |
   | :---:        |
   | [<img src="https://img.shields.io/badge/2023_project-black?style=for-the-badge&logoColor=white"/>](https://github.com/gimeast/2023_project) |
