@@ -45,7 +45,7 @@
 
 ## 💡 프로젝트
 
-### 🔗 [1만 시간의 법칙 - 반응형 랜딩페이지](https://gimeast.github.io/10000-hours-project)
+### 🔗 [1만 시간의 법칙 - 반응형 랜딩페이지 보러가기 click](https://gimeast.github.io/10000-hours-project)
 > 📁 GitHub: [10000-hours-project](https://github.com/gimeast/10000-hours-project)
 
 - Figma 디자인을 기반으로 정적 웹페이지를 구현
@@ -54,7 +54,7 @@
 
 ---
 
-### 🔗 [HODU - 반응형 랜딩페이지 클론](https://gimeast.github.io/responsive-landing-page/)
+### 🔗 [HODU - 반응형 랜딩페이지 클론 보러가기 click](https://gimeast.github.io/responsive-landing-page/)
 > 📁 GitHub: [HODU-landing-page](https://github.com/gimeast/responsive-landing-page)
 
 - Figma 디자인을 기반으로 웹 구조 설계를 연습하기 위한 프로젝트
