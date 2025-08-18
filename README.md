@@ -13,7 +13,7 @@
 
 ## 프로젝트
 
-- 2차 팀프로젝트: [바로가기](https://gimeast.com/)
+- 2차 팀프로젝트: [바로가기](https://open-market-service.pages.dev/src/pages/product-list)
 
 ---
 
