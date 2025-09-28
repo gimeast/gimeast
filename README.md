@@ -11,9 +11,9 @@
 
 ---
 
-## 프로젝트
-
-- 2차 팀프로젝트: [바로가기](https://open-market-service.pages.dev/src/pages/product-list)
+## 진행한 프로젝트
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/960fa802-1420-4d1a-9427-bbd443b6890e" />
+- 모두의 부엌 [바로가기](https://ourkitchen.store/)
 
 ---
 
