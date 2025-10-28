@@ -11,9 +11,15 @@
 
 ---
 
-## 진행한 프로젝트
+## 프로젝트
+
+### 모두의 부엌 (https://ourkitchen.store/)
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/960fa802-1420-4d1a-9427-bbd443b6890e" />
-- 모두의 부엌 [바로가기](https://ourkitchen.store/)
+
+### OOTD (https://ootd.gimeast.com/)
+
+<img width="1432" height="807" alt="image 5" src="https://github.com/user-attachments/assets/8b95a73d-ecf1-49bf-8156-b392e971fdf0" />
 
 ---
 
