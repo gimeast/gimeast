@@ -14,11 +14,12 @@
 ## 프로젝트
 
 ### 모두의 부엌 (https://ourkitchen.store/)
+레포url: (https://github.com/stars-at-daybreak/morningStarRecipe)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/960fa802-1420-4d1a-9427-bbd443b6890e" />
 
 ### OOTD (https://ootd.gimeast.com/)
-
+레포url: (https://github.com/gimeast/OOTD)
 <img width="1432" height="807" alt="image 5" src="https://github.com/user-attachments/assets/8b95a73d-ecf1-49bf-8156-b392e971fdf0" />
 
 ---
