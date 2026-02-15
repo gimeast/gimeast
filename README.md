@@ -12,7 +12,7 @@
 ---
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gimeast&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOB1G9NA)](https://www.git-ranker.com)
 
 ---
 
