@@ -12,7 +12,7 @@
 ---
 
 ## Github Stats  
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOB1G9NA)](https://www.git-ranker.com)
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOB1G9NA)](https://www.git-ranker.com/users/gimeast)
 
 ---
 
